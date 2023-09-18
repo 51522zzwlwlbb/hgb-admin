@@ -1,0 +1,1 @@
+const o="/hgb-admin/assets/logo.1ea765ca.png",e="/hgb-admin/assets/account-logo.0a6f895e.png",g=Object.freeze({title:"HGB-admin",logo:o,loginImage:e,loginDesc:"hgb admin \u4E2D\u540E\u53F0\u524D\u7AEF/\u8BBE\u8BA1\u89E3\u51B3\u65B9\u6848"});export{g as w};
